@@ -1,6 +1,6 @@
-## Emotion Recognition
+# Emotion Recognition
 
-# In this notebook we study a dataset of facial images with key points (cf image below). We use it for the task of emotion recognition.
+### In this notebook we study a dataset of facial images with key points (cf image below). We use it for the task of emotion recognition.
 ![image](https://github.com/Mrasipila/Emotion-Recognition/assets/30113273/ea3bfc71-2bab-4339-a0c2-664e92b1daca)
 
 - We first create region of interest (ROI) based on the key points around the eye, the nose and the mouth to select only the usefull data of the face
